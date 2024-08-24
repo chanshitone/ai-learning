@@ -1,6 +1,6 @@
 # FILEPATH
 
-"""
+```
 This code is part of an AI learning project.
 
 Description:
@@ -14,6 +14,5 @@ This code is for educational purposes only and may not be suitable for productio
 
 Author:
 [Stone Chan]
-"""
 
 # Rest of the code...
